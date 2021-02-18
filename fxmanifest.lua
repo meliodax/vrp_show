@@ -1,4 +1,4 @@
-dependency "vrp_general" client_script "@vrp_general/client.lua" fx_version 'cerulean'
+fx_version 'cerulean'
 game 'gta5'
 
 client_scripts {
